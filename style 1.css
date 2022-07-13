@@ -1,0 +1,16 @@
+@charset "utf-8";
+.container-fluid .container .row {
+    background-color: #FFB437;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #0F8EBC;
+}
+.container .row .col-lg-8 {
+    background-color: #FFFFFF;
+}
+.container .row .col-lg-4 {
+    background-color: #FFFFFF;
+}
+.container .row .col-lg-12 {
+    background-color: #FFFFFF;
+}

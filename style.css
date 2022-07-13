@@ -1,0 +1,35 @@
+@charset "utf-8";
+.container-fluid {
+}
+.card.col-md-4.col-lg-12 .card-body .card-title {
+    color: #AE1D3C;
+}
+.container-fluid .container h3 {
+    color: #0F8EBC;
+}
+
+
+.container .row .col-lg-4 {
+    color: #904FAC;
+}
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .card-title {
+    color: #FFB437;
+}
+
+
+
+.container-fluid .container .jumbotron {
+    background-image: -webkit-linear-gradient(270deg,rgba(245,173,53,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(245,173,53,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(245,173,53,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(245,173,53,1.00) 0%,rgba(255,255,255,1.00) 100%);
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #0F8EBC;
+}
+.jumbotron .lead .btn.btn-primary.btn-lg {
+    background-color: #0F8EBC;
+}
